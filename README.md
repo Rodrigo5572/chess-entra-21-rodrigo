@@ -36,3 +36,6 @@ Instagram https://www.instagram.com/entra21.blusoft/
 Facebook https://www.facebook.com/entra21.blusoft
 
 Site https://www.entra21.com.br/
+
+
+[![N|Solid](https://imgur.com/DEqLHqH.gif)
